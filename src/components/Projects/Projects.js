@@ -23,9 +23,8 @@ function Projects() {
               isBlog={false}
               title="Chat Spot"
               description="Crafted with MERN stack and styled with precision using styled-components, this dynamic chat web application seamlessly integrates robust functionality and visually appealing design. Elevate your communication experience with an intuitive interface, real-time updates, and a seamless blend of modern technologies."
-              clientLink="https://github.com/maniyadg/chatApp-client.git"
-              serverLink="https://github.com/maniyadg/chatApp-server.git"
-              demoLink="https://prismatic-malasada-c44b26.netlify.app/"
+              clientLink="https://github.com/maniyadg/chatApp.git"
+              demoLink="https://chatapp-1-qtym.onrender.com"
             />
           </Col>
           <Col md={4} className="project-card">
