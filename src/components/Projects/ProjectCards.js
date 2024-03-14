@@ -15,14 +15,8 @@ function ProjectCards(props) {
         </Card.Text>
         <Button variant="primary" href={props.clientLink} target="_blank">
           <BsGithub /> &nbsp;
-          {props.isBlog ? "Blog" : "Frontend"}
+          {props.isBlog ? "Blog" : "GitHub"}
         </Button>
-        {"\n"}
-        {"\n"}
-        <Button variant="primary" href={props.serverLink} target="_blank">
-        <BsGithub /> &nbsp;
-        {props.isBlog ? "Blog" : "Backend"}
-      </Button>
         {"\n"}
         {"\n"}
 
