@@ -33,9 +33,8 @@ function Projects() {
               isBlog={false}
               title="Go Shop"
               description="I crafted a dynamic MERN stack e-commerce platform with integrated chat functionality, delivering a seamless shopping experience.My portfolio proudly showcases a MERN stack online shopping application complete with real-time chat capabilities, offering users an immersive browsing and communication experience.In my latest project, I engineered a cutting-edge MERN stack e-commerce solution featuring a sophisticated chat system, elevating online shopping interactions to new levels of engagement and convenience."
-              clientLink="https://github.com/maniyadg/instamart-frontend.git"
-              serverLink="https://github.com/maniyadg/instamart-backend.git"
-              demoLink="https://friendly-narwhal-5df89d.netlify.app"
+              clientLink="https://github.com/maniyadg/instamart.git"
+              demoLink="https://goshop1.onrender.com"
             />
           </Col>
 
